@@ -1,6 +1,6 @@
 ### Hi there 👋
-i'm a junior software engineer
-curently a student at KAU based in Jeddah, Saudi Arabia
+i'm a junior software engineer </br>
+currently a student at KAU based in Jeddah, Saudi Arabia
 <!--
 **NoorAlsharif/NoorAlsharif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
