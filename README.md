@@ -1,6 +1,6 @@
 ### Hi there 👋
-i'm a junior software engineer </br>
-currently a student at KAU based in Jeddah, Saudi Arabia
+i'm a junior software engineer <br>
+based in Jeddah, Saudi Arabia
 <!--
 **NoorAlsharif/NoorAlsharif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on my <a href ="https://github.com/NoorAlsharif/House-of-Used-Art">Senior Project<a> & Graduating 👩‍🎓
+- 🔭 I’m currently working on React.js projects
 - 🌱 I’m currently learning Web dev mainly frontend dev
 - 📫 How to reach me: alsharif.h.noor@gmail.com
